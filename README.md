@@ -5,7 +5,7 @@ that aims to create a decentralized autonomous company that is regulated by a pl
 The project is currently in the early stages of development and is not yet ready for production use.
 
 
-## Star History
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=project-darc/darc&type=Date)](https://star-history.com/#project-darc/darc&Date)
 
